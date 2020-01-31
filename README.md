@@ -1,0 +1,2 @@
+# whynotgo
+just go
